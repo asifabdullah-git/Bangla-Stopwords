@@ -5,4 +5,6 @@ Stop word lists of different languages have been developed already around the wo
 This program converts Bangla words to their corresponsing sentence.
 
 Sample Input: আমি একজন অপারগ, আমি বাঁচতে চাই না।
+
+
 Sample Output: 'একজন', 'অপারগ','বাঁচতে', 'চাই', 'না'
